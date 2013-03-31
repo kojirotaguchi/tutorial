@@ -5,3 +5,4 @@ change on issue3
 pull リモートリポジトリの内容を取得する
 change on issue1
 change on issue2
+change on master
